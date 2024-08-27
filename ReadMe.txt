@@ -1,6 +1,7 @@
-¡Bienvenidas y bienvenidos a nuestro primer desafío!
-
-Durante estas cuatro semanas, vamos a trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+En este challenge utilizaremos todas las herramientas que se nos proporciono durante el desarrollo de los curosos en Alura Latam
+Primero, agradecer al equipo de alura por brindar una educacion de calidad
+Este desafio unio todos los conceptos aprendidos durante 
+como primer requisito esta la encriptacion en la que tenemos la siguiente condicion:
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
@@ -10,7 +11,7 @@ La letra "a" es convertida para "ai"
 La letra "o" es convertida para "ober"
 La letra "u" es convertida para "ufat"
 
-Requisitos:
+Entre los requisitos principales estan:
 
 Debe funcionar solo con letras minúsculas
 No deben ser utilizados letras con acentos ni caracteres especiales
